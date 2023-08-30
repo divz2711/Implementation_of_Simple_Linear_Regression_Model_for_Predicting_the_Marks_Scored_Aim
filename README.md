@@ -1,0 +1,1 @@
+# Implementation_of_Simple_Linear_Regression_Model_for_Predicting_the_Marks_Scored_Aim
